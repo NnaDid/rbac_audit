@@ -1,0 +1,114 @@
+2025-04-11 20:33:48,941 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-11 20:33:49,772 - 2025-04-11 19:33:49 | LOGIN_SUCCESS | admin | 
+2025-04-11 21:00:02,721 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-11 21:00:03,720 - 2025-04-11 20:00:03 | LOGIN_SUCCESS | admin | 
+2025-04-11 21:01:27,885 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-11 21:01:28,614 - 2025-04-11 20:01:28 | LOGIN_SUCCESS | admin | 
+2025-04-11 21:02:41,281 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-11 21:02:42,135 - 2025-04-11 20:02:42 | LOGIN_SUCCESS | admin | 
+2025-04-11 21:05:27,993 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-11 21:05:28,737 - 2025-04-11 20:05:28 | LOGIN_SUCCESS | admin | 
+2025-04-11 21:08:32,631 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-11 21:08:33,359 - 2025-04-11 20:08:33 | LOGIN_SUCCESS | admin | 
+2025-04-12 05:14:10,141 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-12 05:14:11,944 - 2025-04-12 04:14:11 | LOGIN_SUCCESS | admin | 
+2025-04-12 05:34:02,897 - 2025-04-12 04:34:02 | USER_CREATED | admin | Created user Nna Did
+2025-04-12 05:37:46,860 - 2025-04-12 04:37:46 | USER_CREATED | admin | Created user Did
+2025-04-12 05:38:48,462 - 2025-04-12 04:38:48 | USER_CREATED | admin | Created user Gospel
+2025-04-12 05:46:09,013 - 2025-04-12 04:46:09 | ROLE_CHANGED | admin | Changed role of Did to admin
+2025-04-12 05:51:20,518 - 2025-04-12 04:51:20 | ROLE_CHANGED | admin | Changed role of Nna Did to security
+2025-04-12 06:16:02,493 - 2025-04-12 05:16:02 | MFA_ENABLED | admin | 
+2025-04-12 06:28:45,490 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-12 06:28:46,776 - 2025-04-12 05:28:46 | LOGIN_SUCCESS | admin | 
+2025-04-12 06:29:13,436 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-12 06:29:14,201 - 2025-04-12 05:29:14 | LOGIN_SUCCESS | admin | 
+2025-04-12 06:29:58,923 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-12 06:29:59,836 - 2025-04-12 05:29:59 | LOGIN_SUCCESS | admin | 
+2025-04-12 06:55:25,407 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-12 06:55:26,127 - 2025-04-12 05:55:26 | LOGIN_SUCCESS | admin | 
+2025-04-12 07:45:15,716 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-12 07:45:16,628 - 2025-04-12 06:45:16 | LOGIN_SUCCESS | admin | 
+2025-04-12 07:47:32,791 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-12 07:47:33,492 - 2025-04-12 06:47:33 | LOGIN_SUCCESS | admin | 
+2025-04-12 07:49:35,899 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-12 07:49:36,602 - 2025-04-12 06:49:36 | LOGIN_SUCCESS | admin | 
+2025-04-12 07:52:15,247 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-04-12 07:52:16,085 - 2025-04-12 06:52:16 | LOGIN_SUCCESS | admin | 
+2025-04-12 08:51:50,063 - 2025-04-12 07:51:50 | LOGIN_SUCCESS | admin | 
+2025-04-12 08:55:57,549 - 2025-04-12 07:55:57 | LOGIN_SUCCESS | admin | 
+2025-04-12 08:59:45,161 - 2025-04-12 07:59:45 | LOGIN_SUCCESS | admin | 
