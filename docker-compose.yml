@@ -12,7 +12,7 @@ services:
       DB_HOST: mariadb
       DB_PORT: 3306
       DB_USER: root
-      DB_PASSWORD: rootpassword
+      DB_PASSWORD: 
       DB_NAME: rbac_audit
 
   mariadb:
