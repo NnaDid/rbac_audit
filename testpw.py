@@ -12,7 +12,7 @@ def verify_password(plain_password: str, hashed_password: str):
     return pwd_context.verify(plain_password, hashed_password)
 
 # Example: Manually creating a hashed password
-plain_password = "myTestAdmin2025"
+plain_password  = "myTestAdmin2025"
 hashed_password = hash_password(plain_password)
 
 print(f"Plain password: {plain_password}")

@@ -1,5 +1,6 @@
 from pydantic import BaseModel, EmailStr
 from typing import Optional
+from datetime import datetime
 
 class Token(BaseModel):
     access_token: str
@@ -14,10 +15,21 @@ class UserBase(BaseModel):
 class UserCreate(UserBase):
     password: str
 
-class UserOut(UserBase):
+class UserOneOut(UserBase):
     role: str
     mfa_enabled: bool
 
+class UserOut(BaseModel):
+    id: int
+    username: str
+    email: Optional[str]
+    phone: Optional[str]
+    role: str
+    mfa_enabled: bool
+
+    class Config:
+        orm_mode = True
+        
 class UserUpdate(BaseModel):
     email: Optional[EmailStr]
     phone: Optional[str]
@@ -27,10 +39,13 @@ class RoleAssignment(BaseModel):
     role: str
 
 class AuditLogOut(BaseModel):
+    id: int
+    user_id: int
     username: str
-    event_type: str
-    description: Optional[str]
-    timestamp: str
+    event_type: str      
+    description: str   
+    ip_address: str
+    timestamp: str    
 
     class Config:
         orm_mode = True

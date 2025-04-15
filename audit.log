@@ -1,114 +1,190 @@
-2025-04-11 20:33:48,941 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-11 20:33:49,772 - 2025-04-11 19:33:49 | LOGIN_SUCCESS | admin | 
-2025-04-11 21:00:02,721 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-11 21:00:03,720 - 2025-04-11 20:00:03 | LOGIN_SUCCESS | admin | 
-2025-04-11 21:01:27,885 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-11 21:01:28,614 - 2025-04-11 20:01:28 | LOGIN_SUCCESS | admin | 
-2025-04-11 21:02:41,281 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-11 21:02:42,135 - 2025-04-11 20:02:42 | LOGIN_SUCCESS | admin | 
-2025-04-11 21:05:27,993 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-11 21:05:28,737 - 2025-04-11 20:05:28 | LOGIN_SUCCESS | admin | 
-2025-04-11 21:08:32,631 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-11 21:08:33,359 - 2025-04-11 20:08:33 | LOGIN_SUCCESS | admin | 
-2025-04-12 05:14:10,141 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-12 05:14:11,944 - 2025-04-12 04:14:11 | LOGIN_SUCCESS | admin | 
-2025-04-12 05:34:02,897 - 2025-04-12 04:34:02 | USER_CREATED | admin | Created user Nna Did
-2025-04-12 05:37:46,860 - 2025-04-12 04:37:46 | USER_CREATED | admin | Created user Did
-2025-04-12 05:38:48,462 - 2025-04-12 04:38:48 | USER_CREATED | admin | Created user Gospel
-2025-04-12 05:46:09,013 - 2025-04-12 04:46:09 | ROLE_CHANGED | admin | Changed role of Did to admin
-2025-04-12 05:51:20,518 - 2025-04-12 04:51:20 | ROLE_CHANGED | admin | Changed role of Nna Did to security
-2025-04-12 06:16:02,493 - 2025-04-12 05:16:02 | MFA_ENABLED | admin | 
-2025-04-12 06:28:45,490 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-12 06:28:46,776 - 2025-04-12 05:28:46 | LOGIN_SUCCESS | admin | 
-2025-04-12 06:29:13,436 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-12 06:29:14,201 - 2025-04-12 05:29:14 | LOGIN_SUCCESS | admin | 
-2025-04-12 06:29:58,923 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-12 06:29:59,836 - 2025-04-12 05:29:59 | LOGIN_SUCCESS | admin | 
-2025-04-12 06:55:25,407 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-12 06:55:26,127 - 2025-04-12 05:55:26 | LOGIN_SUCCESS | admin | 
-2025-04-12 07:45:15,716 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-12 07:45:16,628 - 2025-04-12 06:45:16 | LOGIN_SUCCESS | admin | 
-2025-04-12 07:47:32,791 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-12 07:47:33,492 - 2025-04-12 06:47:33 | LOGIN_SUCCESS | admin | 
-2025-04-12 07:49:35,899 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-12 07:49:36,602 - 2025-04-12 06:49:36 | LOGIN_SUCCESS | admin | 
-2025-04-12 07:52:15,247 - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\LENOVO\Desktop\python\rbac_audit\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
-2025-04-12 07:52:16,085 - 2025-04-12 06:52:16 | LOGIN_SUCCESS | admin | 
-2025-04-12 08:51:50,063 - 2025-04-12 07:51:50 | LOGIN_SUCCESS | admin | 
-2025-04-12 08:55:57,549 - 2025-04-12 07:55:57 | LOGIN_SUCCESS | admin | 
-2025-04-12 08:59:45,161 - 2025-04-12 07:59:45 | LOGIN_SUCCESS | admin | 
+2025-04-12 20:29:08,134 - 2025-04-12 19:29:08 | LOGIN_SUCCESS | admin | Login from IP 127.0.0.1
+2025-04-12 20:51:28,712 - 2025-04-12 19:51:28 | LOGIN_SUCCESS | admin | Login from IP 127.0.0.1
+2025-04-12 20:52:42,320 - 2025-04-12 19:52:42 | LOGIN_SUCCESS | admin | Login from IP 127.0.0.1
+2025-04-12 20:58:57,986 - 2025-04-12 19:58:57 | LOGIN_SUCCESS | admin | Login from IP 127.0.0.1
+2025-04-12 21:01:23,250 - 2025-04-12 20:01:23 | USER_CREATED | admin | Created user Double
+2025-04-12 21:20:55,428 - 2025-04-12 20:20:55 | LOGIN_SUCCESS | admin | Login from IP 127.0.0.1
+2025-04-13 16:17:17,276 - 2025-04-13 15:17:17 | LOGIN_SUCCESS | admin | Login from IP 127.0.0.1
+2025-04-14 15:27:36,926 - 2025-04-14 14:27:36 | LOGIN_SUCCESS | admin | Login from IP 127.0.0.1
+2025-04-14 19:08:15,267 - 2025-04-14 18:08:15 | LOGIN_SUCCESS | admin | Login from IP 127.0.0.1
+2025-04-14 19:13:52,073 - 2025-04-14 18:13:52 | LOGIN_SUCCESS | admin | Login from IP 127.0.0.1
+2025-04-14 19:15:06,774 - 2025-04-14 18:15:06 | USER_CREATED | admin | Created user Tester One
+2025-04-14 19:33:53,542 - 2025-04-14 18:33:53 | MFA_ENABLED | admin | 
+2025-04-14 19:43:35,816 - 2025-04-14 18:43:35 | MFA_ENABLED | admin | 
+2025-04-14 19:47:30,885 - 2025-04-14 18:47:30 | USER_CREATED | admin | Created user Trust Me
+2025-04-14 19:48:01,656 - 2025-04-14 18:48:01 | MFA_ENABLED | admin | 
+2025-04-14 19:48:03,080 - 2025-04-14 18:48:03 | MFA_ENABLED | admin | 
+2025-04-14 19:50:40,214 - 2025-04-14 18:50:40 | USER_CREATED | admin | Created user Prince Chiemeka
+2025-04-14 19:51:30,612 - 2025-04-14 18:51:30 | MFA_ENABLED | admin | 
+2025-04-14 19:51:31,738 - 2025-04-14 18:51:31 | MFA_ENABLED | admin | 
+2025-04-14 19:51:33,524 - 2025-04-14 18:51:33 | MFA_ENABLED | admin | 
+2025-04-14 19:51:34,584 - 2025-04-14 18:51:34 | MFA_ENABLED | admin | 
+2025-04-14 19:51:36,840 - 2025-04-14 18:51:36 | MFA_ENABLED | admin | 
+2025-04-14 19:53:47,078 - 2025-04-14 18:53:47 | ROLE_CHANGED | admin | Changed role of Did to admin
+2025-04-14 19:54:06,266 - 2025-04-14 18:54:06 | MFA_ENABLED | admin | 
+2025-04-14 19:59:26,339 - 2025-04-14 18:59:26 | ROLE_CHANGED | admin | Changed role of Prince Chiemeka to security
+2025-04-14 20:00:01,955 - 2025-04-14 19:00:01 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP 127.0.0.1
+2025-04-14 20:15:06,121 - 2025-04-14 19:15:06 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP 127.0.0.1
+2025-04-14 21:36:35,187 - 2025-04-14 20:36:35 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP 127.0.0.1
+2025-04-14 21:37:40,226 - 2025-04-14 20:37:40 | LOGIN_SUCCESS | admin | Login from IP 127.0.0.1
+2025-04-14 21:38:01,987 - 2025-04-14 20:38:01 | FAILED_LOGIN | Trust Me | Invalid credentials from IP 127.0.0.1
+2025-04-14 21:38:09,254 - 2025-04-14 20:38:09 | LOGIN_SUCCESS | Trust Me | Login from IP 127.0.0.1
+2025-04-14 21:46:24,984 - 2025-04-14 20:46:24 | MFA_ENABLED | Trust Me | 
+2025-04-14 21:46:50,764 - 2025-04-14 20:46:50 | PROFILE_UPDATED | Trust Me | 
+2025-04-14 21:47:17,084 - 2025-04-14 20:47:17 | PROFILE_UPDATED | Trust Me | 
+2025-04-15 02:07:43,362 - 2025-04-15 01:07:43 | FAILED_LOGIN | admin | Invalid credentials from IP testclient
+2025-04-15 02:07:43,586 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:07:45,145 - HTTP Request: POST http://testserver/auth/register "HTTP/1.1 404 Not Found"
+2025-04-15 02:07:45,242 - HTTP Request: POST http://testserver/auth/login "HTTP/1.1 404 Not Found"
+2025-04-15 02:12:05,648 - 2025-04-15 01:12:05 | FAILED_LOGIN | admin | Invalid credentials from IP testclient
+2025-04-15 02:12:05,719 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:12:06,048 - 2025-04-15 01:12:06 | FAILED_LOGIN | testuser | Invalid credentials from IP testclient
+2025-04-15 02:12:06,075 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:16:40,853 - 2025-04-15 01:16:40 | FAILED_LOGIN | admin | Invalid credentials from IP testclient
+2025-04-15 02:16:40,890 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:16:41,570 - 2025-04-15 01:16:41 | FAILED_LOGIN | testuser | Invalid credentials from IP testclient
+2025-04-15 02:16:41,664 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:37:48,097 - 2025-04-15 01:37:48 | FAILED_LOGIN | admin | Invalid credentials from IP testclient
+2025-04-15 02:37:48,178 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:37:49,294 - 2025-04-15 01:37:49 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 02:37:49,322 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:39:54,338 - 2025-04-15 01:39:54 | FAILED_LOGIN | admin | Invalid credentials from IP testclient
+2025-04-15 02:39:54,377 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:39:55,707 - 2025-04-15 01:39:55 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 02:39:55,784 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:44:04,137 - 2025-04-15 01:44:04 | FAILED_LOGIN | admin | Invalid credentials from IP testclient
+2025-04-15 02:44:04,183 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:44:05,088 - 2025-04-15 01:44:05 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 02:44:05,114 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:47:28,553 - 2025-04-15 01:47:28 | FAILED_LOGIN | admin | Invalid credentials from IP testclient
+2025-04-15 02:47:29,096 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:47:30,193 - 2025-04-15 01:47:30 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 02:47:30,217 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:48:48,628 - 2025-04-15 01:48:48 | FAILED_LOGIN | admin | Invalid credentials from IP testclient
+2025-04-15 02:48:48,659 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:48:49,874 - 2025-04-15 01:48:49 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 02:48:49,899 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:52:18,316 - 2025-04-15 01:52:18 | FAILED_LOGIN | admin | Invalid credentials from IP testclient
+2025-04-15 02:52:18,351 - HTTP Request: POST http://testserver/login "HTTP/1.1 400 Bad Request"
+2025-04-15 02:52:19,522 - 2025-04-15 01:52:19 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 02:52:19,545 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:55:27,258 - 2025-04-15 01:55:27 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 02:55:27,363 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:55:28,068 - 2025-04-15 01:55:28 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 02:55:28,094 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:56:53,633 - 2025-04-15 01:56:53 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 02:56:53,686 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:56:54,851 - 2025-04-15 01:56:54 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 02:56:54,885 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:58:06,933 - 2025-04-15 01:58:06 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 02:58:07,005 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:58:08,243 - 2025-04-15 01:58:08 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 02:58:08,292 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:59:26,731 - 2025-04-15 01:59:26 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 02:59:26,782 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:59:27,975 - 2025-04-15 01:59:27 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 02:59:28,004 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:59:28,121 - HTTP Request: GET http://testserver/user/profile "HTTP/1.1 200 OK"
+2025-04-15 02:59:28,626 - 2025-04-15 01:59:28 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 02:59:28,644 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 02:59:28,964 - 2025-04-15 01:59:28 | PROFILE_UPDATED | admin | 
+2025-04-15 02:59:28,983 - HTTP Request: POST http://testserver/user/update-profile "HTTP/1.1 200 OK"
+2025-04-15 02:59:29,449 - 2025-04-15 01:59:29 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 02:59:29,492 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:01:16,950 - 2025-04-15 02:01:16 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:01:17,004 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:01:17,925 - 2025-04-15 02:01:17 | USER_CREATED | admin | Created user testuser
+2025-04-15 03:01:17,941 - HTTP Request: POST http://testserver/admin/create-user "HTTP/1.1 200 OK"
+2025-04-15 03:01:18,733 - 2025-04-15 02:01:18 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:01:18,750 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:01:18,791 - 2025-04-15 02:01:18 | ROLE_CHANGED | admin | Changed role of testuser to security
+2025-04-15 03:01:18,809 - HTTP Request: POST http://testserver/admin/assign-role "HTTP/1.1 200 OK"
+2025-04-15 03:01:19,294 - 2025-04-15 02:01:19 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:01:19,328 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:01:19,810 - 2025-04-15 02:01:19 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:01:19,849 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:01:19,872 - 2025-04-15 02:01:19 | MFA_ENABLED | admin | 
+2025-04-15 03:01:19,883 - HTTP Request: POST http://testserver/user/create-mfa-pin "HTTP/1.1 200 OK"
+2025-04-15 03:01:20,867 - 2025-04-15 02:01:20 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:01:20,895 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:01:20,917 - HTTP Request: GET http://testserver/user/profile "HTTP/1.1 200 OK"
+2025-04-15 03:01:21,413 - 2025-04-15 02:01:21 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:01:21,431 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:01:21,478 - 2025-04-15 02:01:21 | PROFILE_UPDATED | admin | 
+2025-04-15 03:01:21,490 - HTTP Request: POST http://testserver/user/update-profile "HTTP/1.1 200 OK"
+2025-04-15 03:01:21,975 - 2025-04-15 02:01:21 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 03:01:21,996 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:02:08,508 - 2025-04-15 02:02:08 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:02:08,538 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:02:19,040 - 2025-04-15 02:02:19 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:02:19,116 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:02:19,142 - 2025-04-15 02:02:19 | ROLE_CHANGED | admin | Changed role of testuser to security
+2025-04-15 03:02:19,155 - HTTP Request: POST http://testserver/admin/assign-role "HTTP/1.1 200 OK"
+2025-04-15 03:02:19,623 - 2025-04-15 02:02:19 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:02:19,641 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:02:20,106 - 2025-04-15 02:02:20 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:02:20,169 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:02:20,193 - 2025-04-15 02:02:20 | MFA_ENABLED | admin | 
+2025-04-15 03:02:20,205 - HTTP Request: POST http://testserver/user/create-mfa-pin "HTTP/1.1 200 OK"
+2025-04-15 03:02:20,682 - 2025-04-15 02:02:20 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:02:20,699 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:02:20,723 - HTTP Request: GET http://testserver/logs "HTTP/1.1 403 Forbidden"
+2025-04-15 03:02:21,207 - 2025-04-15 02:02:21 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:02:21,233 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:02:21,260 - HTTP Request: GET http://testserver/user/profile "HTTP/1.1 200 OK"
+2025-04-15 03:02:21,764 - 2025-04-15 02:02:21 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:02:21,794 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:02:21,862 - 2025-04-15 02:02:21 | PROFILE_UPDATED | admin | 
+2025-04-15 03:02:21,875 - HTTP Request: POST http://testserver/user/update-profile "HTTP/1.1 200 OK"
+2025-04-15 03:02:22,366 - 2025-04-15 02:02:22 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 03:02:22,391 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:03:29,024 - 2025-04-15 02:03:29 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:03:29,273 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:03:34,068 - 2025-04-15 02:03:34 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:03:34,088 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:03:34,118 - 2025-04-15 02:03:34 | ROLE_CHANGED | admin | Changed role of testuser to security
+2025-04-15 03:03:34,130 - HTTP Request: POST http://testserver/admin/assign-role "HTTP/1.1 200 OK"
+2025-04-15 03:03:34,601 - 2025-04-15 02:03:34 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:03:34,626 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:03:35,092 - 2025-04-15 02:03:35 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:03:35,130 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:03:35,153 - 2025-04-15 02:03:35 | MFA_ENABLED | admin | 
+2025-04-15 03:03:35,164 - HTTP Request: POST http://testserver/user/create-mfa-pin "HTTP/1.1 200 OK"
+2025-04-15 03:03:35,626 - 2025-04-15 02:03:35 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:03:35,652 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:03:35,675 - HTTP Request: GET http://testserver/logs "HTTP/1.1 403 Forbidden"
+2025-04-15 03:03:36,145 - 2025-04-15 02:03:36 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:03:36,165 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:03:36,190 - HTTP Request: GET http://testserver/user/profile "HTTP/1.1 200 OK"
+2025-04-15 03:03:36,645 - 2025-04-15 02:03:36 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:03:36,672 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:03:36,817 - 2025-04-15 02:03:36 | PROFILE_UPDATED | admin | 
+2025-04-15 03:03:36,830 - HTTP Request: POST http://testserver/user/update-profile "HTTP/1.1 200 OK"
+2025-04-15 03:03:37,300 - 2025-04-15 02:03:37 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 03:03:37,325 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:04:37,881 - 2025-04-15 02:04:37 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:04:37,920 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:04:38,801 - 2025-04-15 02:04:38 | USER_CREATED | admin | Created user test2user
+2025-04-15 03:04:38,837 - HTTP Request: POST http://testserver/admin/create-user "HTTP/1.1 200 OK"
+2025-04-15 03:04:39,649 - 2025-04-15 02:04:39 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:04:39,679 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:04:39,704 - 2025-04-15 02:04:39 | ROLE_CHANGED | admin | Changed role of testuser to security
+2025-04-15 03:04:39,716 - HTTP Request: POST http://testserver/admin/assign-role "HTTP/1.1 200 OK"
+2025-04-15 03:04:40,218 - 2025-04-15 02:04:40 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:04:40,236 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:04:40,727 - 2025-04-15 02:04:40 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:04:40,792 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:04:40,813 - 2025-04-15 02:04:40 | MFA_ENABLED | admin | 
+2025-04-15 03:04:40,824 - HTTP Request: POST http://testserver/user/create-mfa-pin "HTTP/1.1 200 OK"
+2025-04-15 03:04:41,338 - 2025-04-15 02:04:41 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:04:41,359 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:04:41,379 - HTTP Request: GET http://testserver/logs "HTTP/1.1 403 Forbidden"
+2025-04-15 03:04:42,281 - 2025-04-15 02:04:42 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:04:42,314 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:04:42,334 - HTTP Request: GET http://testserver/user/profile "HTTP/1.1 200 OK"
+2025-04-15 03:04:42,836 - 2025-04-15 02:04:42 | LOGIN_SUCCESS | admin | Login from IP testclient
+2025-04-15 03:04:42,867 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2025-04-15 03:04:42,948 - 2025-04-15 02:04:42 | PROFILE_UPDATED | admin | 
+2025-04-15 03:04:42,963 - HTTP Request: POST http://testserver/user/update-profile "HTTP/1.1 200 OK"
+2025-04-15 03:04:43,491 - 2025-04-15 02:04:43 | LOGIN_SUCCESS | Prince Chiemeka | Login from IP testclient
+2025-04-15 03:04:43,512 - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"

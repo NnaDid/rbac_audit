@@ -1,4 +1,5 @@
 from sqlalchemy.orm import Session
+from fastapi import Request
 from . import models, schema
 from .helpers import hashing
 
@@ -40,10 +41,29 @@ def assign_role(db: Session, username: str, role: str):
     db.commit()
     return user
 
+# def get_logs(db: Session):
+#     return db.query(models.AuditLog).all()
 def get_logs(db: Session):
-    return db.query(models.AuditLog).all()
+    logs = db.query(models.AuditLog).all()
 
-def create_log(db: Session, uderid: int, event_type: str, description: str = None):
-    log = models.AuditLog(user_id=uderid, action_type=event_type, action_detail=description,ip_address="192.23.34.8")
+    result = []
+    for log in logs:
+        result.append(schema.AuditLogOut(
+            id=log.id,
+            user_id=log.user_id,
+            username=log.user.username,  # coming from relationship
+            event_type=log.action_type,
+            description=log.action_detail,
+            ip_address=log.ip_address,
+            timestamp=log.timestamp.isoformat() 
+        ))
+
+    return result
+
+def get_all_users(db: Session):
+    return db.query(models.User).all()
+
+def create_log(db: Session, uderid: int, event_type: str, description: str = None, ip:str = None):
+    log = models.AuditLog(user_id=uderid, action_type=event_type, action_detail=description,ip_address=ip)
     db.add(log)
     db.commit()
